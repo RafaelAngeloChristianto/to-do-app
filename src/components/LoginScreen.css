@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+
+.logo_img {
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: -20px;
+    text-align: left;
+}
+
+.email_label {
+    font-family: "Montserrat";
+    font-size: 20px;
+    font-weight: normal;
+    margin-right: 240px;
+}
+.pass_label {
+    font-family: "Montserrat";
+    font-size: 20px;
+    font-weight: normal;
+    margin-right: 210px;
+}
+
+.sbt_btn {
+    padding: 20px;
+    border-radius: 20px;
+    width: 300px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    background-color: lightblue;
+    font-family: "Kanit";
+}
+
+.sbt_btn:hover {
+    cursor: pointer;
+}
+input {
+    border-radius: 10px;
+    width: 300px;
+    height: 30px;
+}
+
+.line {
+    font-family: "Inter";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.line-text {
+    color: brown;
+    
+}
+.link {
+    text-decoration: none;
+}
+.line-text:hover {
+    cursor: pointer;
+}
