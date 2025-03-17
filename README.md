@@ -14,3 +14,7 @@ If you are developing a production application, we recommend using TypeScript an
 ## Database
 For the database that is utilzized in the making of this application is using Firebase, including Authentication and Firestore Database
 
+## How To Use The Application
+1. Create an account if you do not have one yet, and if you do, you can login
+2. Create tasks!
+3. Edit and Delete them whenever necessary.
